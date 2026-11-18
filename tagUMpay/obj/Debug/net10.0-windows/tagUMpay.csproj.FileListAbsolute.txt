@@ -1,0 +1,14 @@
+c:\Users\user\Desktop\tagUMpay\bin\Debug\net10.0-windows\tagUMpay.exe
+C:\Users\user\Desktop\tagUMpay\bin\Debug\net10.0-windows\tagUMpay.deps.json
+C:\Users\user\Desktop\tagUMpay\bin\Debug\net10.0-windows\tagUMpay.runtimeconfig.json
+c:\Users\user\Desktop\tagUMpay\bin\Debug\net10.0-windows\tagUMpay.dll
+c:\Users\user\Desktop\tagUMpay\bin\Debug\net10.0-windows\tagUMpay.pdb
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.AssemblyInfo.cs
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.dll
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\refint\tagUMpay.dll
+c:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.pdb
+C:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\tagUMpay.genruntimeconfig.cache
+C:\Users\user\Desktop\tagUMpay\obj\Debug\net10.0-windows\ref\tagUMpay.dll
